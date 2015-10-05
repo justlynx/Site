@@ -2,6 +2,7 @@ body {
 	font-size: 12pt;
 	color: black;
 	text-align: justify;
+	background-image: url("concrete_seamless.png")
 }
 
 h1{
@@ -9,3 +10,4 @@ h1{
 	color: black;
 	text-align: center;
 }
+
