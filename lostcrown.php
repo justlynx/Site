@@ -12,7 +12,7 @@ and open the template in the editor.
 		
 			
 		
-		<link rel="stylesheet" href="site.css">
+		<link rel="stylesheet" href="css/site.css">
 	</head>
     <body>
         <p>Το The lost Crown - A ghost hunting adventure story πρόκειται
